@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+i&82tt*ffzq$!u2jq%x!se_3p8xz%@g1=c%fm^s-^+gyjgw$i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['huijo.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.huijo.org']
 
 
 # Application definition
